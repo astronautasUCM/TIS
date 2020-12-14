@@ -1,0 +1,16 @@
+.grad1 {
+    height: auto;
+    min-height: 81%;
+    background-image: linear-gradient(#007bff, #0066d3);
+
+}
+
+.header{
+    height: 10%;
+}
+
+.footer{
+    height: 9%;
+    background-color: black;
+    color: white;
+}
