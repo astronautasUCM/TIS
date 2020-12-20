@@ -32,7 +32,9 @@
       </div><!-- container //  -->
       </nav>
     <!--                                    End Header area                                                -->
-
+    <?php
+        require 'fragments/header.php';
+    ?> 
     <!--                                    Body area                                                      -->
     <div class="grad1">
       <div class="content">
