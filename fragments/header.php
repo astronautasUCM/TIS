@@ -4,9 +4,9 @@
         
 ?> 
 
-<nav class="navbar navbar-expand-lg navbar-dark sticky-top bg-primary header">
+<nav class="navbar navbar-expand-lg navbar-dark sticky-top header">
         <div class="container">
-        <a class="navbar-brand" href="index.php">ELP - TIS</a>
+        <a class="navbar-brand title" href="index.php">ELP - TIS</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main_nav">
           <span class="navbar-toggler-icon"></span>
         </button>
