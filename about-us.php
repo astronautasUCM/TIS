@@ -3,6 +3,7 @@
         require 'fragments/imports.php';
     ?> 
     <title>TIS - Inicio</title>
+    <link rel="stylesheet" type="text/css" href="css/about-us.css"/>
 
 <body>
     <!--                                    Header area                                                    -->
@@ -11,9 +12,8 @@
     ?> 
     <!--                                    End Header area                                                -->
     <!--                                    Body area                                                      -->
-    <div class="grad1">
-        <div class='container'>
-            <div class='mb-5'></div>
+    <div class="grad2">
+        <div class='container web-body'>
             <?php
                 $persons = array(
                     'pab' => array('Pablo', 'Jefe de Equipo', 'Esta a tope'),
