@@ -11,7 +11,7 @@
     ?> 
     <!--                                    End Header area                                                -->
     <!--                                    Body area                                                      -->
-    <div class='container'>
+    <div class='container grad1'>
         <div class='mb-5'></div>
         <?php
             $persons = array(
