@@ -17,9 +17,7 @@
             $persons = array(
                 'pab' => array('Pablo', 'Jefe de Equipo', 'Esta a tope'),
                 'ped' => array('Pedro', 'Pesao profesional', 'Maquinote con movidas web'));
-            $r = true;
             foreach ($persons as $person) {
-                $r = $r xor true;
                 $name = $person[0];
                 $title = $person[1];
                 $description = $person[2];
