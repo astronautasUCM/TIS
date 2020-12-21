@@ -32,10 +32,7 @@
     color: white;
 }
 
-.content{
-    margin-left: 5%;
-    margin-right: 5%;
-}
+
 
 .container-x{
     margin-left: 2%;
@@ -44,3 +41,12 @@
 .nav-item{
     color: blue;
 }
+
+.carousel-inner > .carousel-item > img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height:100%;
+    margin: auto;
+}
+
