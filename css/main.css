@@ -12,6 +12,14 @@
     
 }
 
+.main {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 .title{
     font-size: 150%;
 }
@@ -29,7 +37,7 @@
     margin-right: 5%;
 }
 
-.container{
+.container-x{
     margin-left: 2%;
 }
 
