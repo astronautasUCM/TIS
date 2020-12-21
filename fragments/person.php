@@ -10,4 +10,4 @@
 </div>
     
 </div>
-<hr class="featurette-divider m-5">
+<hr class="featurette-divider pb-3 mt-3" style="margin-bottom: 0px;">
