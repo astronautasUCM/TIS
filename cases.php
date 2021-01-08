@@ -15,16 +15,16 @@
     
     <!--                                    Body area                                                      -->
     <div class="grad1">
-        <div class="carousel">
+        <div class="carousel-custom carousel">
             <?php
                 require 'fragments/casesCarousel.php';
             ?> 
         </div>
-        <div name="title">
-            <h2>Casos más importantes</h2>
-        </div>
-        <div class="container">
-            <div class="row align-items-center">
+
+        <div class="album pt-5">  
+    <div class="container">
+
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                 <?php
                     $cases = array(
                         'case1' => array('Caso 1', 'El caso mas importante de la carrera politica de barcenas', 'ESP456/342', 'Juzgado de Barcelona', 'link1'),
@@ -39,15 +39,15 @@
                         $casenumber = $case[2];
                         $location = $case[3];
                         $link = $case[4];
-                        echo '<div class="col-sm">';
+                        echo '<div class="col">';
                         require 'fragments/card-case.php';
                         echo "</div>";
                     }
                 ?>
             </div>
             </div>
-        
-    </div>    
+    </div> 
+    
     <!--                                    End body area                                                  -->
     <!--                                    Footer area                                                    -->
     <?php
