@@ -27,7 +27,10 @@
                 $persons = array(
                     'pab' => array('Pablo', 'Jefe de Equipo', 'Esta a tope'),
                     'ped' => array('Pedro', 'Pesao profesional', 'Maquinote con movidas web'),
-                    'fre' => array('Freeman', 'Twittero en su tiempo ocupado', 'K pasa, hacemos la etica o k pasa'));
+                    'fre' => array('Freeman', 'Twittero en su tiempo ocupado', 'K pasa, hacemos la etica o k pasa'),
+                    'lui' => array('Luis', 'Luisito Comunica', 'Dibuja de vez en cuando paginas web'),
+                    'fra' => array('Fran', 'Futbolero Instagramer', 'GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL del bicho, vaya maquina el madrid como pilotaba el bicho')
+                );
                 $r = true;
                 foreach ($persons as $person) {
                     $r = $r xor true;

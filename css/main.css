@@ -1,13 +1,13 @@
 .grad1 {
     height: auto;
     min-height: 81%;
-    background-image: linear-gradient(#354BBD, #00b3d3);
+    background-image: linear-gradient(#354BBD, #64fff7);
     color: white;
 }
 
 .header{
     height: 10%;
-    background-image: linear-gradient(#3A29A6, #354BBD);
+    background-image: linear-gradient(#4a1392, #354BBD);
     
 }
 
