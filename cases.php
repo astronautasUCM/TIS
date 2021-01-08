@@ -21,10 +21,10 @@
             ?> 
         </div>
 
-        <div class="album pt-5">  
+        <div class="album py-5">  
     <div class="container">
 
-        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 g-3">
                 <?php
                     $cases = array(
                         'case1' => array('Caso 1', 'El caso mas importante de la carrera politica de barcenas', 'ESP456/342', 'Juzgado de Barcelona', 'link1'),
@@ -39,7 +39,7 @@
                         $casenumber = $case[2];
                         $location = $case[3];
                         $link = $case[4];
-                        echo '<div class="col">';
+                        echo '<div class="col p-2">';
                         require 'fragments/card-case.php';
                         echo "</div>";
                     }
