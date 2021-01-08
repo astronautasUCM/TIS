@@ -13,15 +13,16 @@
     <!--                                    End Header area                                                -->
     
     <!--                                    Body area                                                      -->
-    <div class="grad1 web-body">
-        <div name="title">
-            <h2>Casos más importantes</h2>
-        </div>
-        <div class="cases-carousel">
+    <div class="grad1">
+        <div class="carousel">
             <?php
                 require 'fragments/casesCarousel.php';
             ?> 
         </div>
+        <div name="title">
+            <h2>Casos más importantes</h2>
+        </div>
+      
     </div>    
     <!--                                    End body area                                                  -->
     <!--                                    Footer area                                                    -->
