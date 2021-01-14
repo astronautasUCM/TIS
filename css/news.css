@@ -1,0 +1,49 @@
+.new-content{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 4%;
+    padding-top: 4%;
+}
+
+.text-area{
+    padding-top: 5%;
+}
+
+.left {
+    width: 50%;
+    padding-right: 5%;
+    padding-left: 2%;
+}
+  
+.right {
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 2%;
+    
+}
+
+.textContainer{
+    position: relative;
+}
+
+.img{
+    width: 100%;
+    height: auto;
+    padding-top: 30%;
+    padding-bottom: 30%;
+}
+
+.img-container{
+    position: relative;
+}
+
+
+.font-type{
+    font-size: 110%;
+    line-height: 150%;
+}
+.grad1{
+    background-color: white;
+    color: black;
+    background-image: linear-gradient(white, white);
+}

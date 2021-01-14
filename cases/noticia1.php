@@ -2,12 +2,25 @@
 <title>TIS - Un juzgado donostiarra absuelve en una sentencia pionera a un internauta por compartir una película.</title>
 
 <?php 
-    $titulo = "Un juzgado donostiarra absuelve en una sentencia pionera a un internauta por compartir una película.";
-    $description = "Esta ha sido la primera sentencia absolutoria de una persona que compartía, supuestamente, una película con otros internautas.
-    El juez Pedro José Malagón Ruiz ha determinado que no quedaba probada la infracción contra la propiedad intelectual con la sola identificación de la IP que se utilizó para dicho fin, tal y como pedía el denunciante. El acusado consiguió así librarse de la condena por difundir una película y difundirla a otros usuarios.
-    El juzgado donostiarra abrió así una vía para que los otros demandados por casos similares que hay abiertos por toda la península terminen igual, aunque no se sentará jurisprudencia hasta que en algún momento se pronuncie el Tribunal Supremo
-    Jorge Campanillas un abogado donostiarra especializado en Derecho de las Tecnologías de la Información y Comunicaciones explica lo siguiente, \"El juez lo que dice es que el demandante tendría que haber presentado más pruebas para determinar si realmente esa persona era 'culpable' y que la IP por sí sola no identifica a nadie que cometa un acto ilegal a través de la misma\".
-    ";
+    $titulo = 'Denuncuan al ingeniero que encontró una vulnerabilidad en la app "metrovalencia"';
+    $description1 = '
+    Ferrocarrils de la Generalitat Valenciana (FGV) denunció al ingeniero informático que encontró una vulnerabilidad en la aplicación de Metrovalencia y TRAM. 
+    Dicha vulnerabilidad ponía en riesgo los datos personales de casi 60.000 usuarios, que usaban esta aplicación móvil para el metro y el tranvía de Valencia y Alicante. 
+    En una entrevista que realizó el periódico Valencia Plaza con este ingeniero, que prefirió no dar su nombre, explica cómo empleando el programa “Postman” se podían acceder a 
+    todos los datos de cualquier usuario registrado (excepto el número de tarjeta de crédito). Esto incluía el correo electrónico, NIF, nombres y apellidos, fecha de nacimiento, 
+    código postal y número de teléfono. Este ingeniero avisó a la administración y remitió un escrito a la Agencia Española de Protección de Datos (AEPD) además de una auditoría 
+    donde explica el problema que tiene la aplicación. Resulta que la API que se usa está de forma pública en internet y no tiene implementado una autenticación para los diferentes 
+    usuarios, por lo que cualquier persona puede hacer peticiones sobre cualquier otro usuario y obtener la información. ';
+    $description2 = '
+    Posteriormente, FGV decidió denunciar a este ingeniero tras considerar en el proceso de demostrar que la aplicación tenía vulnerabilidades, podría haber cometido un delito 
+    informático. Finalmente el juez ha decidido archivar esta denuncia, el juez consideró lo siguiente "No consta acreditado que el denunciado hubiese accedido utilizando 
+    subterfugios o artimañas al sistema informático de Ferrocarriles de la Generalitat, dando en su declaración cumplida respuesta a las dudas que sobre la manera y razones 
+    de su acceso existían".';
+    $description3 = '
+    Finalmente el 20 de diciembre del 2018 la empresa encargada de desarrollar la aplicación, Proconsi, modificó el sistema de autenticación de tal manera que cada usuario tiene un 
+    “hash” único generado cada vez que inician sesión. Aunque se llegó a solucionar el problema, nadie puede negar que el ingeniero en un intento de avisar de un fallo importante, 
+    terminó por tener que acudir a juicio y testificar para defenderse, en vez de que los responsables de dicho fallo solucionaran la vulnerabilidad tras ser avisados.
+    ';
     require 'fragments/imports.php';
     require 'fragments/header.php';
    
@@ -15,3 +28,5 @@
    
     require '../fragments/footer.php';
 ?>
+
+
