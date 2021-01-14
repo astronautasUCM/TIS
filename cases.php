@@ -27,7 +27,7 @@
         <div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 g-3">
                 <?php
                     $cases = array(
-                        'case1' => array('Caso 1', 'El caso mas importante de la carrera politica de barcenas', 'ESP456/342', 'Juzgado de Barcelona', 'link1'),
+                        'case1' => array('Caso 1', 'El caso mas importante de la carrera politica de barcenas', 'ESP456/342', 'Juzgado de Barcelona', 'pages/noticias/noticia1.php'),
                         'case2' => array('Caso 2', 'asdfasdfadsf', 'ESP4567466/342', 'Juzgado de Madrid', 'link2'),
                         'case3' => array('Caso 3', 'Hola hola!!!!', 'ESP456/3434534532', 'Juzgado de Pais Basco', 'link3'),
                         'case4' => array('Caso 4', 'El caso mas importante de la carrera politica de barcenas', 'ESP456/342', 'Juzgado de Barcelona', 'link4'),
