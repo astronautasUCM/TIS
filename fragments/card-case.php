@@ -7,7 +7,7 @@
     </a>
     <div class="card-body">
         <h4 style="color:black"><?php echo $title ?></h4>
-        <p class="card-text" style="color:black;"><?php echo $description ?></p>
+        <p class="card-text text" style="color:black;"><?php echo $description ?></p>
         <div class="d-flex justify-content-between align-items-center">
             <div class="btn-group">
                 <button type="button" class="btn btn-sm btn-outline-secondary"><a href="<?php echo $link ?>" class="button">Ver más</a></button>
