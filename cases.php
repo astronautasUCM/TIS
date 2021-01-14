@@ -28,10 +28,10 @@
                 <?php
                     $cases = array(
                         'case1' => array('Caso 1', 'El caso mas importante de la carrera politica de barcenas', 'ESP456/342', 'Juzgado de Barcelona', 'pages/noticias/noticia1.php'),
-                        'case2' => array('Caso 2', 'asdfasdfadsf', 'ESP4567466/342', 'Juzgado de Madrid', 'link2'),
-                        'case3' => array('Caso 3', 'Hola hola!!!!', 'ESP456/3434534532', 'Juzgado de Pais Basco', 'link3'),
-                        'case4' => array('Caso 4', 'El caso mas importante de la carrera politica de barcenas', 'ESP456/342', 'Juzgado de Barcelona', 'link4'),
-                        'case5' => array('Caso 5', 'El caso mas importante de la carrera politica de barcenas', 'ESP456/342', 'Juzgado de Barcelona', 'link5')
+                        'case2' => array('Caso 2', 'asdfasdfadsf', 'ESP4567466/342', 'Juzgado de Madrid', 'pages/noticias/noticia2.php'),
+                        'case3' => array('Caso 3', 'Hola hola!!!!', 'ESP456/3434534532', 'Juzgado de Pais Basco', 'pages/noticias/noticia3.php'),
+                        'case4' => array('Caso 4', 'El caso mas importante de la carrera politica de barcenas', 'ESP456/342', 'Juzgado de Barcelona', 'pages/noticias/noticia4.php'),
+                        'case5' => array('Caso 5', 'El caso mas importante de la carrera politica de barcenas', 'ESP456/342', 'Juzgado de Barcelona', 'pages/noticias/noticia5.php')
                     );
                     foreach ($cases as $case) {
                         $title = $case[0];
