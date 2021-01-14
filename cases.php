@@ -27,8 +27,8 @@
         <div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 g-3">
                 <?php
                     $cases = array(
-                        'case1' => array('Caso 1', 'El caso mas importante de la carrera politica de barcenas', 'pages/noticias/noticia1.php', 'img/news/1.jpg'),
-                        'case2' => array('Caso 2', 'asdfasdfadsf', 'pages/noticias/noticia2.php', 'img/news/2.jpg'),
+                        'case1' => array('Caso 1', "Un juzgado donostiarra absuelve en una sentencia pionera a un internauta por compartir una película.", 'pages/noticias/noticia1.php', 'img/news/1.jpg'),
+                        'case2' => array('Caso 2', 'Cuatro meses de prisión y multa a dos alumnos por ‘hackear’ ordenadores de profesores.', 'pages/noticias/noticia2.php', 'img/news/2.jpg'),
                         'case3' => array('Caso 3', 'Hola hola!!!!', 'pages/noticias/noticia3.php', 'img/news/3.jpg'),
                         'case4' => array('Caso 4', 'El caso mas importante de la carrera politica de barcenas', 'pages/noticias/noticia4.php', 'img/news/4.jpg'),
                         'case5' => array('Caso 5', 'El caso mas importante de la carrera politica de barcenas', 'pages/noticias/noticia5.php', 'img/news/5.jpg')
