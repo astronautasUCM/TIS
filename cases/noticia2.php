@@ -1,14 +1,16 @@
 <link rel="stylesheet" type="text/css" href="css/index.css"/>
-<title>TIS - Cuatro meses de prisión y multa a dos alumnos por ‘hackear’ ordenadores de profesores</title>
+<title>TIS - Sentencia: SAP M 10009/2020</title>
 
 <?php 
-    $titulo = "Cuatro meses de prisión y multa a dos alumnos por ‘hackear’ ordenadores de profesores";
-    $description = "Un juzgado de la localidad pontevedresa de A Estrada condenó a cuatro meses de cárcel y multa de 480 euros a dos alumnos de un instituto por hackear ordenadores de varios profesores. Instalaron un software que daba acceso a las contraseñas de sus correos electrónicos para conocer las preguntas de los exámenes que eran divulgadas por un grupo de WhatsApp.
-    Ambos acusados llegaron a un acuerdo con la Fiscalía tras confesar los hechos, que derivó en una sentencia de conformidad por los delitos de interceptación ilegal de datos informáticos y revelación de secretos. Ninguno cumplirá la condena al ser la pena inferior a dos años y no tener antecedentes penales.
+    $titulo = "Sentencia: SAP M 10009/2020";
+    $description1 = "En un juicio previo se condenó a prisión al dueño de un locutorio y al pago de indemnizaciones a Microsoft por el valor de las licencias que no poseía. Posteriormente, recurrieron a dicha sentencia y en este nuevo se dictaminó que la forma de examinar los ordenadores no fue la correcta, ya que sin los permisos necesarios se procedió a la investigación de los contenidos de los discos duros. En el juicio, se señaló, acertadamente, que al haber contenidos totalmente personales se realiza una violación de la intimidad e incluso una violación del derecho a la inviolavilidad de las comunicaciones al poder tener acceso a correos electrónicos y demás información de carácter privado. Por esos motivos, finalmente se revocó la sentencia anterior y se absolvió al, hasta entonces condenado.
+
+    En este caso se recalca la importancia de mantener la integridad y la preservación de los derechos fundamentales de las personas investigadas, como se indica al final de la sentencia y citamos textualmente: 
     
-    Uno de los alumnos investigados reconoció que “no instaló el programa pero sí conocía que el mismo se encontraba instalado, que efectuó únicamente dos entradas para comprobar que funcionaba y para ver las notas de una asignatura, pero no accedió a datos de la vida privada de ningún profesor ni divulgó ningún dato de los obtenidos”, según recoge la investigación judicial.
-    El otro alumno también implicado afirmó que “conocía la instalación del sistema software pero que no participó en su instalación, pese a que accedió a varias cuentas de profesores por curiosidad, pero que no divulgó datos de carácter personal”.
+    “El sentido del art. 11.1 de LOPJ implica no sólo que no es posible valorar las pruebas obtenidas directamente con la vulneración del derecho fundamental, sino también que no pueden ser utilizados legítimamente como medios de investigación, o como datos para iniciar u orientar una investigación penal, aquellos que hayan sido obtenidos violentando los derechos o libertades fundamentales.”.
     ";
+    $description2 = "Delitos imputados: artículo 270.1 del Código Penal, el cual indica que será castigado con prisión de seis a 4 años y multa de doce a veinticuatro meses el que, con ánimo de obtener un beneficio económico y en perjuicio de un tercero explote una obra sin autorización de los titulares o cesionarios.";
+    $description3 = "Fallo: Absuelto.";
     require 'fragments/imports.php';
     require 'fragments/header.php';
    
