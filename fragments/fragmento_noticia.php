@@ -14,6 +14,12 @@
                     <img class="img" src="../img/news/1.jpg" />
                 </div>
             </div> 
+            <?php
+                foreach ($fuentes as $fuente) {
+                    echo "<a href=".$fuente.">Fuente 1</a><br>";
+                }
+            ?>
+            
             <a href="../cases.php"><button type="button" class="btn btn-danger mt-5">Volver</button></a>
         </div>
     </div>
