@@ -17,7 +17,7 @@
     <div class="grad1">
         <div class="carousel-custom carousel">
             <?php
-                require 'fragments/casesCarousel.php';
+                require 'fragments/judgementsCarousel.php';
             ?> 
         </div>
 
@@ -28,11 +28,9 @@
                 <?php
                     $judgements = array(
                         'case1' => array('Sentencia: SAP VA 440/2020', "La Audiencia Provincial de Valladolid ha condenado a dos años de cárcel a un becario de la Universidad de Valladolid que dañó 20 ordenadores del Instituto de Biología y Genética Molecular, en el que realizaba su doctorado, utilizando un usb-killer que atacó la placa base de los aparatos",
-                        'judgements/judgement1.php', 'img/news/1.jpg'),
-                        'case2' => array('Sentencia: SAP M 10009/2020', 'El sentido del art. 11.1 de LOPJ implica no sólo que no es posible valorar las pruebas obtenidas directamente con la vulneración del derecho fundamental, sino también que no pueden ser utilizados legítimamente como medios de investigación, o como datos para iniciar u orientar una investigación penal, aquellos que hayan sido obtenidos violentando los derechos o libertades fundamentales.', 'judgements/judgement2.php', 'img/news/2.jpg'),
-                        'case3' => array('Una sentencia pionera absuelve a una persona por compartir cine en la Red', 'El juzgado número 1 de lo Mercantil de San Sebastián ha tomado una polémica decisión que podría suponer un punto de inflexión en el debate sobre la piratería en internet.', 'judgements/judgement3.php', 'img/news/3.jpg'),
-                        'case4' => array('Caso 4', 'El caso mas importante de la carrera politica de barcenas', 'pages/judgements/judgement4.php', 'img/news/4.jpg'),
-                        'case5' => array('Caso 5', 'El caso mas importante de la carrera politica de barcenas', 'pages/judgements/judgement5.php', 'img/news/5.jpg')
+                        'judgements/judgement1.php', 'img/judgements/1.jpg'),
+                        'case2' => array('Sentencia: SAP M 10009/2020', 'En un juicio previo se condenó a prisión al dueño de un locutorio y al pago de indemnizaciones a Microsoft por el valor de las licencias que no poseía.', 'judgements/judgement2.php', 'img/judgements/2.jpg'),
+                        'case3' => array('Sentencia: STS 4287/2019', 'Entre enero de 2011 y mayo de 2012 una serie de personas se dedicaron a la obtención, intermediación, comercialización y distribución a gran escala de datos reservados de carácter personal y laboral de cientos de personas.', 'judgements/judgement3.php', 'img/judgements/3.jpg'),
                     );
                     foreach ($judgements as $judgement) {
                         $title = $judgement[0];

@@ -3,16 +3,30 @@
 
 <?php 
     $titulo = "Cuatro meses de prisión y multa a dos alumnos por ‘hackear’ ordenadores de profesores";
-    $description = "Un juzgado de la localidad pontevedresa de A Estrada condenó a cuatro meses de cárcel y multa de 480 euros a dos alumnos de un instituto por hackear ordenadores de varios profesores. Instalaron un software que daba acceso a las contraseñas de sus correos electrónicos para conocer las preguntas de los exámenes que eran divulgadas por un grupo de WhatsApp.
-    Ambos acusados llegaron a un acuerdo con la Fiscalía tras confesar los hechos, que derivó en una sentencia de conformidad por los delitos de interceptación ilegal de datos informáticos y revelación de secretos. Ninguno cumplirá la condena al ser la pena inferior a dos años y no tener antecedentes penales.
     
-    Uno de los alumnos investigados reconoció que “no instaló el programa pero sí conocía que el mismo se encontraba instalado, que efectuó únicamente dos entradas para comprobar que funcionaba y para ver las notas de una asignatura, pero no accedió a datos de la vida privada de ningún profesor ni divulgó ningún dato de los obtenidos”, según recoge la investigación judicial.
-    El otro alumno también implicado afirmó que “conocía la instalación del sistema software pero que no participó en su instalación, pese a que accedió a varias cuentas de profesores por curiosidad, pero que no divulgó datos de carácter personal”.
-    ";
+    $description1 = 'Entre enero de 2011 y mayo de 2012 una serie de personas se dedicaron a la obtención, intermediación, comercialización y distribución 
+    a gran escala de datos reservados de carácter personal y laboral de cientos de personas. La información la obtenían a través de uno de ellos que aprovechaba 
+    su puesto de funcionario organizó una red entre otros funcionarios para obtener de forma ilícita, rápida y masiva de datos para su posterior venta.
+
+    Algunos de los datos que extraían consistían en la fecha de nacimiento, domicilio o incluso su nombre y DNI, si era o no perceptor de prestación por desempleo 
+    o de subsidio por viudedad; maternidad o jubilación entre otros muchos otros.
+
+    En el periodo señalado se extrajeron datos de como mínimo 2061 personas.
+    ';
+
+    $description2 = '197.2 del Código Penal el cual indica que se impondrán penas de uno a cuatro años de cárcel a al que sin estar autorizado se apodere, utilice 
+    o modifique, en perjuicio de un tercero, cualquier dato personal.
+
+    También 197.4 del Código Penal el cual agrava la pena, ya que indica que si este tipo de delitos son cometidos por la persona responsable de los ficheros donde 
+    se contuvieran dichos datos, se impondrá una pena de tres a cinco años.
+    ';
+
+    $description3 = 'Finalmente se impuso un año de prisión (hubo rebaja en la condena por haber confesado) por cada delito cometido.';
+    
     require 'fragments/imports.php';
     require 'fragments/header.php';
    
-    require '../fragments/fragmento_noticia.php';
+    require '../fragments/fragmento_judgement.php';
    
     require '../fragments/footer.php';
 ?>
