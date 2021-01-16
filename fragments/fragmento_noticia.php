@@ -15,11 +15,13 @@
                 </div>
             </div> 
             <?php
+                $i = 1;
                 foreach ($fuentes as $fuente) {
-                    echo "<a href=".$fuente.">Fuente 1</a><br>";
+                    echo "<a href='".$fuente."'><button type='button' class='btn btn-primary mr-1 ml-1'>Fuente {$i}</button></a>";
+                    $i = $i + 1;
                 }
             ?>
-            
+            <br>
             <a href="../cases.php"><button type="button" class="btn btn-danger mt-5">Volver</button></a>
         </div>
     </div>
