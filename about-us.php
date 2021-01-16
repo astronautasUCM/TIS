@@ -25,9 +25,9 @@
         <h2 class="featurette-heading text-center mb-5">El Equipo</h2>
             <?php
                 $persons = array(
-                    'fre' => array('Alex Díaz', 'Redaccion', 'Redactor e investigador de la sección de Sentencias', ''),
+                    'fre' => array('Alex Díaz', 'Redaccion', 'Redactor e investigador de la sección de Sentencias', 'img/about/alex.jpg'),
                     'lui' => array('Luis', 'Redaccion', 'Redactor e investigador de la sección de Noticias', 'img/about/luis.jpeg'),
-                    'fra' => array('Fran', 'Redaccion', 'Redactor e investigador de la sección de Noticias', ''),
+                    'fra' => array('Fran', 'Redaccion', 'Redactor e investigador de la sección de Noticias', 'img/about/fran'),
                     'ped' => array('Pedro Martínez', 'Desarrollo Web', 'Encargado del desarrollo de la pagina web', 'img/about/pedro.jpg'),
                     'pab' => array('Pablo Vázquez', 'Desarrollo Web', 'Encargado del desarrollo de la pagina web', 'img/about/pablo.PNG')
                 );
