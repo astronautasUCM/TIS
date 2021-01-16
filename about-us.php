@@ -25,11 +25,11 @@
         <h2 class="featurette-heading text-center mb-5">El Equipo</h2>
             <?php
                 $persons = array(
-                    'pab' => array('Pablo', 'Jefe de Equipo', 'Esta a tope'),
-                    'ped' => array('Pedro', 'Pesao profesional', 'Maquinote con movidas web'),
-                    'fre' => array('Freeman', 'Twittero en su tiempo ocupado', 'K pasa, hacemos la etica o k pasa'),
-                    'lui' => array('Luis', 'Luisito Comunica', 'Dibuja de vez en cuando paginas web'),
-                    'fra' => array('Fran', 'Futbolero Instagramer', 'GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL del bicho, vaya maquina el madrid como pilotaba el bicho')
+                    'fre' => array('Alex Díaz', 'Redaccion', 'Redactor e investigador de la sección de Sentencias', 'img/about/alex.jpg'),
+                    'lui' => array('Luis', 'Redaccion', 'Redactor e investigador de la sección de Noticias', 'img/about/luis.jpeg'),
+                    'fra' => array('Fran', 'Redaccion', 'Redactor e investigador de la sección de Noticias', 'img/about/fran'),
+                    'ped' => array('Pedro Martínez', 'Desarrollo Web', 'Encargado del desarrollo de la pagina web', 'img/about/pedro.jpg'),
+                    'pab' => array('Pablo Vázquez', 'Desarrollo Web', 'Encargado del desarrollo de la pagina web', 'img/about/pablo.PNG')
                 );
                 $r = true;
                 foreach ($persons as $person) {
@@ -37,6 +37,7 @@
                     $name = $person[0];
                     $title = $person[1];
                     $description = $person[2];
+                    $photo = $person[3];
                     require 'fragments/person.php';
                 }
             ?>

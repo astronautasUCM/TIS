@@ -43,7 +43,7 @@
     line-height: 150%;
 }
 .grad1{
-    background-color: white;
+    background-color: grey;
     color: black;
-    background-image: linear-gradient(white, white);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.376), rgba(255, 255, 255, 0.041));
 }

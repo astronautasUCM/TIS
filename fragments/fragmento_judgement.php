@@ -15,6 +15,7 @@
                     <img class="img" src="../img/news/1.jpg" />
                 </div>
             </div>  
+            <a href="../judgements.php"><button type="button" class="btn btn-danger mt-5">Volver</button></a>
         </div>
     </div>
 </html>
