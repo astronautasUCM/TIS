@@ -14,8 +14,9 @@
                 <div class="right">
                     <img class="img" src="../img/news/1.jpg" />
                 </div>
-            </div>  
-            <a href="../judgements.php"><button type="button" class="btn btn-danger mt-5">Volver</button></a>
+            </div>
+            <a href="../judgements.php"><button type="button" class="btn btn-dark mt-5">Volver</button></a>
+            <a href=<?php echo $fuente ?>><button type="button" class="btn btn-primary mt-5">Fuente contrastada</button></a>
         </div>
     </div>
 </html>
