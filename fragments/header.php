@@ -11,10 +11,10 @@
         </button>
         <div class="collapse navbar-collapse" id="main_nav">
           <ul class="navbar-nav">
-            <li class="nav-item"><a class="nav-link <?php if($uri == "/TIS/judgement") {echo 'active';}?>" href="judgements.php">Sentencias</a></li>
-            <li class="nav-item"><a class="nav-link <?php if($uri == "/TIS/cases") {echo 'active';}?>" href="cases.php">Noticias</a></li>
-            <li class="nav-item"><a class="nav-link <?php if($uri == "/TIS/documentation") {echo 'active';}?>" href="documentation.php">Como reportar</a></li>
-            <li class="nav-item"><a class="nav-link <?php if($uri == "/TIS/about-us") {echo 'active';}?>" href="about-us.php">Sobre nosotros</a></li>
+            <li class="nav-item"><a class="nav-link <?php if($uri == "/TIS/judgements.php") {echo 'active';}?>" href="judgements.php">Sentencias</a></li>
+            <li class="nav-item"><a class="nav-link <?php if($uri == "/TIS/cases.php") {echo 'active';}?>" href="cases.php">Noticias</a></li>
+            <li class="nav-item"><a class="nav-link <?php if($uri == "/TIS/report.php") {echo 'active';}?>" href="report.php">Como reportar</a></li>
+            <li class="nav-item"><a class="nav-link <?php if($uri == "/TIS/about-us.php") {echo 'active';}?>" href="about-us.php">Sobre nosotros</a></li>
         </div> <!-- navbar-collapse.// -->
       </div><!-- container //  -->
 </nav>
