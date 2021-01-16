@@ -17,8 +17,7 @@
     Fallo: Condenado a dos años de prisión y pagar una indemnización de 22.130,89€. Mientras que al autor del delito se le absuelve de pagar el 50% de las costas procesales 
     causadas, es decir de los gastos que originan un procedimiento judicial.
     ';
-    $fuente = 'https://raw.githubusercontent.com/astronautasUCM/TIS/main/sentencias/SAP_VA_440_2020.pdf';
-    $img ="../img/judgements/1.jpg"; 
+    $fuente = 'https://raw.githubusercontent.com/astronautasUCM/TIS/main/sentencias/SAP_VA_440_2020.pdf';   
     require 'fragments/imports.php';
     require 'fragments/header.php';
    

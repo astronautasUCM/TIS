@@ -23,7 +23,6 @@
 
     $description3 = 'Finalmente se impuso un año de prisión (hubo rebaja en la condena por haber confesado) por cada delito cometido.';
     $fuente = 'https://raw.githubusercontent.com/astronautasUCM/TIS/main/sentencias/STS_4287_2019.pdf';
-    $img ="../img/judgements/3.jpg"; 
     require 'fragments/imports.php';
     require 'fragments/header.php';
    

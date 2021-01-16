@@ -13,7 +13,7 @@
           <ul class="navbar-nav">
             <li class="nav-item"><a class="nav-link active" href="../judgements.php">Sentencias</a></li>
             <li class="nav-item"><a class="nav-link" href="../cases.php">Noticias</a></li>
-            <li class="nav-item"><a class="nav-link" href="../report.php">Como reportar</a></li>
+            <li class="nav-item"><a class="nav-link" href="../documentation.php">Como reportar</a></li>
             <li class="nav-item"><a class="nav-link" href="../about-us.php">Sobre nosotros</a></li>
         </div> <!-- navbar-collapse.// -->
       </div><!-- container //  -->

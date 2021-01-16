@@ -22,11 +22,6 @@
     demandados al no haber querido solucionar el altercado por la vía amistosa que se había establecido en un primer momento. Hubo muchos casos similares en países 
     como Australia y Alemania, solventandose en este último con cartas avisándoles de lo que estaban haciendo y llegando a multar si no paraban de hacerlo.
     ';
-
-    $img = '../img/news/3.jpg';
-
-    $fuentes = array("https://elpais.com/sociedad/2019/03/05/actualidad/1551812764_893681.html");
-
     require 'fragments/imports.php';
     require 'fragments/header.php';
    
