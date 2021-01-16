@@ -21,6 +21,7 @@
     “hash” único generado cada vez que inician sesión. Aunque se llegó a solucionar el problema, nadie puede negar que el ingeniero en un intento de avisar de un fallo importante, 
     terminó por tener que acudir a juicio y testificar para defenderse, en vez de que los responsables de dicho fallo solucionaran la vulnerabilidad tras ser avisados.
     ';
+<<<<<<< HEAD
     $fuentes = array('https://valenciaplaza.com/la-app-de-metrovalencia-deja-al-descubierto-los-datos-de-60000-usuarios
     ', 'https://valenciaplaza.com/el-juez-archiva-la-denuncia-de-fgv-contra-el-usuario-que-advirtio-de-un-agujero-de-seguridad-en-su-app', 'https://valenciaplaza.com/el-ayuntamiento-de-valencia-pide-una-auditoria-externa-a-la-app-de-global-omnium-tras-el-agujero
     ', 'https://www.meneame.net/m/actualidad/fgv-denuncia-usuario-advirtio-agujero-seguridad-039-app-039', 'https://www.meneame.net/m/tecnolog%C3%ADa/juez-archiva-denuncia-fgv-usuario-advirtio-agujero-seguridad-app', 'https://valenciaplaza.com/Salvador-justifica-la-denuncia-de-FGV-y-tilda-de-hacker-al-usuario-que-aviso-del-fallo-en-la-app'
@@ -28,6 +29,9 @@
 
     $img = '../img/news/1.jpg';
     
+=======
+    $fuentes = array('fuente1', 'fuente2');
+>>>>>>> parent of 4dc4fa0... noticia 1
     require 'fragments/imports.php';
     require 'fragments/header.php';
    

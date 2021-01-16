@@ -13,7 +13,7 @@
     <!--                                    End Header area                                                -->
     <!--                                    Body area                                                      -->
     <div class="grad1">
-
+        <h1>¿Cómo reporto una brecha de seguridad?</h1>
     </div>    
     <!--                                    End body area                                                  -->
     <!--                                    Footer area                                                    -->
