@@ -39,7 +39,7 @@
                         $link = $case[2];
                         $image = $case[3];
                         echo '<div class="col p-2">';
-                        require 'fragments/card-case.php';
+                            require 'fragments/card-case.php';
                         echo "</div>";
                     }
                 ?>
