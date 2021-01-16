@@ -21,6 +21,7 @@
     que él no instaló el software pero sí conocía como usarlo y que el solo uso esto para revisar un par de notas pero no obtuvo datos privados ni ningún tipo de examen.
     Otro de los alumnos afirmó lo mismo que el anterior pero este sí entró en cuentas de profesores aunque no divulgó ningún tipo de información recogida en sus investigaciones.';
 
+    $fuentes = array("https://www.diariovasco.com/tecnologia/internet/juzgado-donostiarra-absuelve-20171115153908-nt.html", "https://twitter.com/dbravo/status/928302057509056512?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E928302057509056512%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.diariovasco.com%2Ftecnologia%2Finternet%2Fjuzgado-donostiarra-absuelve-20171115153908-nt.html");
     
     require 'fragments/imports.php';
     require 'fragments/header.php';
