@@ -21,6 +21,9 @@
     “hash” único generado cada vez que inician sesión. Aunque se llegó a solucionar el problema, nadie puede negar que el ingeniero en un intento de avisar de un fallo importante, 
     terminó por tener que acudir a juicio y testificar para defenderse, en vez de que los responsables de dicho fallo solucionaran la vulnerabilidad tras ser avisados.
     ';
+
+    $img = '../img/news/1.jpg';
+    
     $fuentes = array('fuente1', 'fuente2');
     require 'fragments/imports.php';
     require 'fragments/header.php';

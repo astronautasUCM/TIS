@@ -11,7 +11,7 @@
                     <p><?php echo $description3 ?></p>
                 </div>
                 <div class="right">
-                    <img class="img" src="../img/news/1.jpg" />
+                    <img class="img" src=<?php echo $img?> />
                 </div>
             </div> 
             <?php

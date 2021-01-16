@@ -21,6 +21,7 @@
 
     $description3 = "Fallo: Absuelto.";
     $fuente = 'https://raw.githubusercontent.com/astronautasUCM/TIS/main/sentencias/SAP_M_10009_2020.pdf';
+    $img ="../img/judgements/2.jpg";  
     require 'fragments/imports.php';
     require 'fragments/header.php';
    
