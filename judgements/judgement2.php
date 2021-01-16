@@ -20,6 +20,7 @@
     con ánimo de obtener un beneficio económico y en perjuicio de un tercero explote una obra sin autorización de los titulares o cesionarios.";
 
     $description3 = "Fallo: Absuelto.";
+    $fuente = 'https://raw.githubusercontent.com/astronautasUCM/TIS/main/sentencias/SAP_M_10009_2020.pdf';
     require 'fragments/imports.php';
     require 'fragments/header.php';
    

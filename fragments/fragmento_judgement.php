@@ -16,7 +16,7 @@
                 </div>
             </div>
             <a href="../judgements.php"><button type="button" class="btn btn-dark mt-5">Volver</button></a>
-            <a href=<?php echo $fuente ?>><button type="button" class="btn btn-primary mt-5">Fuente contrastada</button></a>
+            <a href=<?php echo $fuente ?>><button type="button" class="btn btn-primary mt-5">Fuente</button></a>
         </div>
     </div>
 </html>
