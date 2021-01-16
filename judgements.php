@@ -28,15 +28,16 @@
                 <?php
                     $judgements = array(
                         'case1' => array('Sentencia: SAP VA 440/2020', "La Audiencia Provincial de Valladolid ha condenado a dos años de cárcel a un becario de la Universidad de Valladolid que dañó 20 ordenadores del Instituto de Biología y Genética Molecular, en el que realizaba su doctorado, utilizando un usb-killer que atacó la placa base de los aparatos",
-                        'judgements/judgement1.php', 'img/judgements/1.jpg'),
-                        'case2' => array('Sentencia: SAP M 10009/2020', 'En un juicio previo se condenó a prisión al dueño de un locutorio y al pago de indemnizaciones a Microsoft por el valor de las licencias que no poseía.', 'judgements/judgement2.php', 'img/judgements/2.jpg'),
-                        'case3' => array('Sentencia: STS 4287/2019', 'Entre enero de 2011 y mayo de 2012 una serie de personas se dedicaron a la obtención, intermediación, comercialización y distribución a gran escala de datos reservados de carácter personal y laboral de cientos de personas.', 'judgements/judgement3.php', 'img/judgements/3.jpg'),
+                        'judgements/judgement1.php', 'img/judgements/1.jpg', 'https://raw.githubusercontent.com/astronautasUCM/TIS/main/sentencias/SAP_VA_440_2020.pdf'),
+                        'case2' => array('Sentencia: SAP M 10009/2020', 'En un juicio previo se condenó a prisión al dueño de un locutorio y al pago de indemnizaciones a Microsoft por el valor de las licencias que no poseía.', 'judgements/judgement2.php', 'img/judgements/2.jpg', 'https://raw.githubusercontent.com/astronautasUCM/TIS/main/sentencias/SAP_M_10009_2020.pdf'),
+                        'case3' => array('Sentencia: STS 4287/2019', 'Entre enero de 2011 y mayo de 2012 una serie de personas se dedicaron a la obtención, intermediación, comercialización y distribución a gran escala de datos reservados de carácter personal y laboral de cientos de personas.', 'judgements/judgement3.php', 'img/judgements/3.jpg', 'https://raw.githubusercontent.com/astronautasUCM/TIS/main/sentencias/STS_4287_2019.pdf'),
                     );
                     foreach ($judgements as $judgement) {
                         $title = $judgement[0];
                         $description = $judgement[1];
                         $link = $judgement[2];
                         $image = $judgement[3];
+                        $fuente = $judgement[4];
                         echo '<div class="col p-2">';
                         require 'fragments/card-judgement.php';
                         echo "</div>";
