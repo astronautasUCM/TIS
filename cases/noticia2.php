@@ -21,7 +21,8 @@
     que él no instaló el software pero sí conocía como usarlo y que el solo uso esto para revisar un par de notas pero no obtuvo datos privados ni ningún tipo de examen.
     Otro de los alumnos afirmó lo mismo que el anterior pero este sí entró en cuentas de profesores aunque no divulgó ningún tipo de información recogida en sus investigaciones.';
 
-    
+    $img = '../img/news/2.jpg';
+
     require 'fragments/imports.php';
     require 'fragments/header.php';
    
