@@ -23,6 +23,8 @@
 
     $img = '../img/news/2.jpg';
 
+    $fuentes = array("https://www.diariovasco.com/tecnologia/internet/juzgado-donostiarra-absuelve-20171115153908-nt.html", "https://twitter.com/dbravo/status/928302057509056512?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E928302057509056512%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.diariovasco.com%2Ftecnologia%2Finternet%2Fjuzgado-donostiarra-absuelve-20171115153908-nt.html");
+
     require 'fragments/imports.php';
     require 'fragments/header.php';
    

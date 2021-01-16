@@ -25,6 +25,8 @@
 
     $img = '../img/news/3.jpg';
 
+    $fuentes = array("https://elpais.com/sociedad/2019/03/05/actualidad/1551812764_893681.html");
+
     require 'fragments/imports.php';
     require 'fragments/header.php';
    
