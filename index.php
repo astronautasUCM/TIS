@@ -51,3 +51,6 @@
 </html>
 
 <!--                                        Scripts                                                        -->
+<script>
+  alert('Esta página ha sido diseñada para google chrome');
+</script>
