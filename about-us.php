@@ -15,7 +15,7 @@
     <div class='grad2 text-center p-5'>
         <div class='container'>
         <h1>¿Quienes somos?</h1>
-        <p>Somos unos estudiantes de la asignatura de Etica, Legislacion y Profesion en la facultad de Informatica de la UCM, los cuales hemos implementado este pequeño proyecto social para ayudar a desarrolladores y 
+        <p style="font-size: large">Somos unos estudiantes de la asignatura de Etica, Legislacion y Profesion en la facultad de Informatica de la UCM, los cuales hemos implementado este pequeño proyecto social para ayudar a desarrolladores y 
             cualquier persona del publico general a encontrar sentencias en el mundo de la informatica. </p>
             <img src='img/about/informatica_UCM.png' width="300" height="300" class='p-5'></img>
         </div>
