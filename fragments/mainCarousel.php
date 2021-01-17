@@ -8,21 +8,21 @@
     <div class="carousel-item active">
       <img class="responsive-image d-block w-100" src="img/noticias/1/1.jpg" height="300" alt="..." >
       <div class="carousel-caption d-none d-md-block">
-        <h5>Noticia1</h5>
+        <h4>Noticia1</h4>
         <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
       </div>
     </div>
     <div class="carousel-item">
       <img class="responsive-image d-block w-100" src="img/noticias/2/1.jpg" height="300" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Noticia2</h5>
+        <h4>Noticia2</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
       </div>
     </div>
     <div class="carousel-item">
       <img class="responsive-image d-block w-100" src="img/noticias/3/1.jpg" height="300" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Noticia3</h5>
+        <h4>Noticia3</h4>
         <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
       </div>
     </div>
