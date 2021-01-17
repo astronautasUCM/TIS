@@ -47,6 +47,10 @@
             que encontrarás en esa sección podrás reportarlo en la página oficial de la Guardia Civil del grupo de delitos telemáticos. </p>
             <p>Esperamos poder concienciar a la gente de algunos de los posibles delitos que se han cometido en internet, y de qué manera pueden protegerse ante las autoridades si 
             sufren algún tipo de delito informático.</p>
+            <p>
+                <a style="color:white; text-decoration: underline;" href="https://www.redseguridad.com/actualidad/los-ciberdelitos-crecen-en-espana-un-35-en-2019_20200608.html">Fuente1</a>
+                <a style="color:white; text-decoration: underline;" href="https://oedi.es/estadisticas/">Fuente2</a>.
+            </p>
         </div>
     </div>
     <div class='grey'>
