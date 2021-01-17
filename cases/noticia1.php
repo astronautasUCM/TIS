@@ -30,7 +30,7 @@
    
     require '../fragments/fragmento_noticia.php';
    
-    require '../fragments/footer.php';
+    require 'fragments/footer.php';
 ?>
 
 

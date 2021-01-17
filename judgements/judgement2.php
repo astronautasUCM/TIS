@@ -26,5 +26,5 @@
    
     require '../fragments/fragmento_judgement.php';
    
-    require '../fragments/footer.php';
+    require 'fragments/footer.php';
 ?>
