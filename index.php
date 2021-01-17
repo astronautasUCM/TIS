@@ -33,7 +33,7 @@
       <div class="content3 row" style="color: black;">
         <div class="left">
           <h1>Test</h1>
-          <p>También hemos habilitado una pagina con un test que nos permitira inferir la situación social actual en lo referente a la legislacion vigente en cuestiones de delitos informaticos más basicos. ¿Nos ayudas?</p>
+          <p>También hemos habilitado una pagina con un test que nos permitira inferir la situación social actual en lo referente a la legislacion vigente en cuestiones de delitos informaticos más basicos. <a style="color:black; text-decoration: underline;" href="test.php">¿Nos ayudas?</a></p>
         </div>
         <div class="right">
             <img src="img/index/checklist.jpg" width="500" height="300"></img>

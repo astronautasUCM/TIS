@@ -38,7 +38,7 @@
             judiciales. Pretende ser un centro de información donde encontrar una diversidad de contenido redactado de forma objetiva en un solo lugar, y poder leer y comprender los 
             posibles delitos que han cometido otras personas para que con suerte no te ocurra lo mismo. Todas las imágenes de esta web han sido obtenidas de pixabay, un banco de imágenes
             libres de derechos de autor. Todos los contenidos se publican bajo la Licencia Pixabay, que los hace seguros para usar sin pedir permiso o dar crédito al artista, incluso con fines comerciales.
-            <a color="white" href="https://pixabay.com/es/">enlace</a>.
+            <a style="color:white; text-decoration: underline;" href="https://pixabay.com/es/">enlace</a>.
             </p>
             <p>También se encuentra en esta página un link a una encuesta (estimación de 2 minutos en completar) si deseas compartir de forma anónima cuáles eran tus conocimientos 
             sobre los delitos informáticos que ocurren en internet antes de leer el contenido de esta página.</p>
