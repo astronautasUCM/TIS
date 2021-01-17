@@ -14,21 +14,14 @@
         require 'fragments/header.php';
     ?> 
     <!--                                    Body area                                                      -->
-    <div class="grad1">
-      <div class="content1 row">
-        <div class="left carousel-margin">
-          <?php require 'fragments/mainCarousel.php' ?>
-        </div>
-        <div class="right textContainer">
-          <div class="text">
-            <h3>Recolectamos noticias</h3>
-            <p>Nos dedicamos a recolectar noticias relacionadas con delitos informáticos, las cuales 
-              han recibido sentencias firmes. Tras esto las analizamos e incluimos los enlaces
-              a las noticias originales y a las sentencias para que puedan ser leídas.</p>
-            </p>
-          </div>
+    <div class="carousel-custom carousel">
+            <?php
+                require 'fragments/homeCarrousel.php';
+            ?> 
         </div>
       </div>
+    <div class="grad1">
+      
       <div class="content2 fixed-bg row">
         <div class="text-center-content" style="margin-top:5%">
           <h3>¿Cómo puedo reportar un delito informático?</h3>
@@ -37,7 +30,14 @@
           </p>
         </div>
       </div>
-      <div class="content3 row">
+      <div class="content3 row" style="color: black;">
+        <div class="left">
+          <h1>Test</h1>
+          <p>También hemos habilitado una pagina con un test que nos permitira inferir la situación social actual en lo referente a la legislacion vigente en cuestiones de delitos informaticos más basicos. ¿Nos ayudas?</p>
+        </div>
+        <div class="right">
+            <img src="img/index/checklist.jpg" width="500" height="300"></img>
+        </div>
       </div>
     </div>    
     <!--                                    End body area                                                  -->

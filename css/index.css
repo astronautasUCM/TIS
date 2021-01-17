@@ -13,6 +13,10 @@
     position: relative;
 }
 
+.carousel-custom{
+    height: 65%;
+}
+
 .text{
     margin: 0;
     padding-left: 10%;
