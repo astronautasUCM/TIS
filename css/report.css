@@ -33,7 +33,8 @@
 }
 
 .rnd{
-    border-radius: 10px;;
+    border-radius: 10px;
+    max-height: 468.5px;
 }
 
 .bottom{
