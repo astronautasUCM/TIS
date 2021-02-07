@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="css/index.css"/>
-<title>TIS - Cuatro meses de prisión y multa a dos alumnos por ‘hackear’ ordenadores de profesores</title>
+<title>TIS - Una sentencia pionera absuelve a una persona por compartir cine en la Red</title>
 
 <?php 
     $titulo = "Una sentencia pionera absuelve a una persona por compartir cine en la Red";
