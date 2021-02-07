@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="css/index.css"/>
-<title>TIS - Un juzgado donostiarra absuelve en una sentencia pionera a un internauta por compartir una película.</title>
+<title>TIS - Denuncuan al ingeniero que encontró una vulnerabilidad en la app "metrovalencia"</title>
 
 <?php 
     $titulo = 'Denuncuan al ingeniero que encontró una vulnerabilidad en la app "metrovalencia"';

@@ -1,8 +1,8 @@
 <link rel="stylesheet" type="text/css" href="css/index.css"/>
-<title>TIS - Cuatro meses de prisión y multa a dos alumnos por ‘hackear’ ordenadores de profesores</title>
+<title>TIS - Sentencia: STS 4287/2019</title>
 
 <?php 
-    $titulo = "Cuatro meses de prisión y multa a dos alumnos por ‘hackear’ ordenadores de profesores";
+    $titulo = "Sentencia: STS 4287/2019";
     
     $description1 = 'Entre enero de 2011 y mayo de 2012 una serie de personas se dedicaron a la obtención, intermediación, comercialización y distribución 
     a gran escala de datos reservados de carácter personal y laboral de cientos de personas. La información la obtenían a través de uno de ellos que aprovechaba 
