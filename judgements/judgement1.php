@@ -4,9 +4,9 @@
 <?php 
     $titulo = 'Sentencia: SAP VA 440/2020';
     $description1 = '
-    Entre enero de 2011 y mayo de 2012 una serie de personas se dedicaron a la obtención, intermediación, comercialización y distribución a gran escala de datos reservados 
-    de carácter personal y laboral de cientos de personas. La información la obtenían a través de uno de ellos que aprovechaba su puesto de funcionario organizó una red entre 
-    otros funcionarios para obtener de forma ilícita, rápida y masiva de datos para su posterior venta.';
+    La Audiencia Provincial de Valladolid ha condenado a dos años de cárcel a un becario de la Universidad de Valladolid que dañó 20 ordenadores del Instituto de Biología 
+    y Genética Molecular, en el que realizaba su doctorado, utilizando un usb-killer que atacó la placa base de los aparatos.
+    ';
     
     $description2 = '
     Diversos apartados del Artículo 264 del Código Penal, el cual recoge los delitos de daños informáticos.
