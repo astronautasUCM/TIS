@@ -2,6 +2,7 @@
 <title>TIS - Denuncuan al ingeniero que encontró una vulnerabilidad en la app "metrovalencia"</title>
 
 <?php 
+    $img = '../img/news/1.jpg';
     $titulo = 'Denuncuan al ingeniero que encontró una vulnerabilidad en la app "metrovalencia"';
     $description1 = '
     Ferrocarrils de la Generalitat Valenciana (FGV) denunció al ingeniero informático que encontró una vulnerabilidad en la aplicación de Metrovalencia y TRAM. 

@@ -2,6 +2,7 @@
 <title>TIS - Una sentencia pionera absuelve a una persona por compartir cine en la Red</title>
 
 <?php 
+    $img = '../img/news/3.jpg';
     $titulo = "Una sentencia pionera absuelve a una persona por compartir cine en la Red";
     $description1 = 'La sentencia en ningún momento cuestionó la ilegalidad de la descarga de contenidos digitales (en este caso un película), determinó 
     que no era posible culpar al titular de la línea por difundir contenido a través de ella. El Juzgado nº 1 de San Sebastián dictaminó que el acusado por 

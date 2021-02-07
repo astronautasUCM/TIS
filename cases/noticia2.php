@@ -2,6 +2,7 @@
 <title>TIS - Cuatro meses de prisión y multa a dos alumnos por ‘hackear’ ordenadores de profesores</title>
 
 <?php 
+    $img = '../img/news/2.jpg';
     $titulo = "Cuatro meses de prisión y multa a dos alumnos por ‘hackear’ ordenadores de profesores";
     $description1 = 'Un juzgado condenó a dos estudiantes por hackear ordenadores de profesores con una multa de 480 y cuatro meses de cárcel. Los alumnos habían 
     instalado un software que daba acceso a contraseñas para conocer las preguntas de los exámenes y estos las enviaban a sus compañeros por grupos de whatsapp para 

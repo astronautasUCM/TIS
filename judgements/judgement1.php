@@ -2,6 +2,7 @@
 <title>TIS - Sentencia: SAP VA 440/2020</title>
 
 <?php 
+    $img = '../img/judgements/1.jpg';
     $titulo = 'Sentencia: SAP VA 440/2020';
     $description1 = '
     La Audiencia Provincial de Valladolid ha condenado a dos años de cárcel a un becario de la Universidad de Valladolid que dañó 20 ordenadores del Instituto de Biología 

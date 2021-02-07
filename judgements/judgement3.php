@@ -2,6 +2,7 @@
 <title>TIS - Sentencia: STS 4287/2019</title>
 
 <?php 
+    $img = '../img/judgements/3.jpg';
     $titulo = "Sentencia: STS 4287/2019";
     
     $description1 = 'Entre enero de 2011 y mayo de 2012 una serie de personas se dedicaron a la obtención, intermediación, comercialización y distribución 

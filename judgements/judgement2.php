@@ -2,6 +2,7 @@
 <title>TIS - Sentencia: SAP M 10009/2020</title>
 
 <?php 
+    $img = '../img/judgements/2.jpg';
     $titulo = "Sentencia: SAP M 10009/2020";
     $description1 = "En un juicio previo se condenó a prisión al dueño de un locutorio y al pago de indemnizaciones a Microsoft por el valor de las licencias que no poseía. 
     Posteriormente, recurrieron a dicha sentencia y en este nuevo se dictaminó que la forma de examinar los ordenadores no fue la correcta, ya que sin los permisos necesarios 
