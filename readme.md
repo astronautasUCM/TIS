@@ -1,5 +1,5 @@
 # TIS para la asignatura de ELP
-Trabajo realizado para la asignatura de Ética, legislación y profesión de la Universidad Complutense de Madrid.
+> Trabajo realizado para la asignatura de Ética, legislación y profesión de la Universidad Complutense de Madrid.
 
 # ¿De qué se trata?
 Durante la asignatura anteriormente mencionada desarrollamos una [página web](https://www.ismyweblegal.tk) en la cual reunimos noticias y analizamos senencias relacionadas
